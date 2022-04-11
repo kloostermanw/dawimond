@@ -1,0 +1,5 @@
+{
+    "base_url" : "https://api.dawimon.com",
+    "token" : "<token>",
+    "host_id" : "<host_id"
+}
