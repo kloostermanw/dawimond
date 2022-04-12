@@ -1,0 +1,10 @@
+[Unit]
+Description=dawimond
+
+[Service]
+User=root
+WorkingDirectory=/var/lib/dawimond
+ExecStart=/var/lib/dawimond/dawimond
+
+[Install]
+WantedBy=multi-user.target
